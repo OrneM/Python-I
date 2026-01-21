@@ -57,8 +57,5 @@ La idea es llevar un registro ordenado de lo aprendido, con ejemplos claros y c�
 
 ---
 
-## 🗂️ Estructura sugerida del repositorio
-
-> Si todavía no la tenés armada, esta estructura te deja el repo re prolijo:
 
 
