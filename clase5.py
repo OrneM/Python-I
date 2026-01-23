@@ -51,4 +51,4 @@ for i in range(inicio, fin+1):
     if i % 3 == 0 and i % 5 == 0:
         multiplos_de_3_y_5.append(i)
 
-print("Múltiplos de 3 y 5 entre", inicio, "y", fin, ":", multiplos_de_3_y_5)
+print("Múltiplos de 3 y 5 entre", inicio, "y", fin, ":", multiplos_de_3_y_5) 
