@@ -18,6 +18,14 @@ while True:
         print("Opción no válida. Por favor, intente de nuevo.") 
 
 
+
+nombres=["Luis","Monica","Agustin","Luis"]
+name=input("Nombre: ")
+
+if (name in nombres):
+    print("se encontró")
+else:
+    print("no se encontró")
     
 
 
